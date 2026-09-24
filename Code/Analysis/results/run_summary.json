@@ -1,0 +1,13 @@
+{
+  "data_dir": "/Users/byeonghwa/Desktop/LEE/Mentoring/Data/Data for Class",
+  "date_start": "2010-01-02",
+  "date_end": "2011-05-17",
+  "users": 1000,
+  "user_days": 464687,
+  "insiders": 70,
+  "rolling_days": 60,
+  "minimum_baseline_days": 14,
+  "zero_std_z": 6.0,
+  "z_cap": 10.0,
+  "peak_in_answer_period": 26
+}

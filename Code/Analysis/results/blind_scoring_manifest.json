@@ -1,0 +1,31 @@
+{
+  "generic_weights": {
+    "after_hours_logon_count": 1.0,
+    "logon_pc_count": 0.6,
+    "logon_count": 0.3,
+    "after_hours_device_count": 1.0,
+    "device_connect_count": 0.4,
+    "usb_file_count": 1.4,
+    "file_count": 0.7,
+    "unique_file_count": 0.5,
+    "after_hours_file_count": 0.8,
+    "http_domain_count": 0.5,
+    "after_hours_http_count": 0.6,
+    "external_email_count": 0.8,
+    "external_attachment_email_count": 1.0,
+    "external_email_size": 0.8,
+    "after_hours_email_count": 0.6,
+    "mass_recipient_email_count": 1.0
+  },
+  "semantic_weights": {
+    "job_site_count": 1.0,
+    "leak_site_count": 1.4,
+    "keylogger_site_count": 1.4,
+    "usb_executable_count": 1.4
+  },
+  "rolling_days": 60,
+  "minimum_baseline_days": 14,
+  "zero_std_z": 6.0,
+  "z_cap": 10.0,
+  "note": "이 설정과 순위는 answers를 읽기 전에 확정됨"
+}
