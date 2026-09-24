@@ -2,3 +2,5 @@
 /.venv/
 /Data/Class/
 /Data/Data for Class/
+__pycache__/
+*.py[cod]
